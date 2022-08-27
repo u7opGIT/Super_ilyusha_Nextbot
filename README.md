@@ -1,2 +1,1 @@
-# Super_ilyusha_Nextbot
-Super_ilyusha_Nextbot
+Place along the way ```...\Steam\steamapps\common\GarrysMod\garrysmod\addons```
